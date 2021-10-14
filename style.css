@@ -1,0 +1,20 @@
+body {
+  font-size: 18px;
+  background-color: peachpuff;
+  max-width: 500px;
+}
+
+img {
+  width: 320px;
+}
+
+a:link,
+a:visited,
+.red {
+  color: red;
+  text-decoration: none;
+}
+
+hr {
+  border: 1px solid red;
+}
