@@ -2,6 +2,22 @@ body {
   font-size: 18px;
   background-color: peachpuff;
   max-width: 500px;
+
+  /* padding: 0 10px; */
+  /*
+
+   After video! 
+   
+   */
+  text-align: center;
+  margin: 10px auto;
+  letter-spacing: 0.5px;
+  font-family: 'Lobster', cursive;
+}
+
+hr {
+  border: 1px solid crimson;
+  max-width: 350px;
 }
 
 img {
@@ -10,11 +26,18 @@ img {
 
 a:link,
 a:visited,
-.red {
-  color: red;
+.crimson {
+  color: crimson;
   text-decoration: none;
 }
 
-hr {
-  border: 1px solid red;
+/* After video! */
+
+a:active {
+  color: palevioletred;
+}
+
+html {
+  margin-left: calc(100vw - 100%);
+  margin-right: 0;
 }
