@@ -5,13 +5,16 @@ html {
 
 body {
   margin: 10px auto;
-  padding: 0 10px;
   font-size: 18px;
   background-color: peachpuff;
   max-width: 500px;
   text-align: center;
   letter-spacing: 0.5px;
   font-family: 'Lobster', cursive;
+}
+
+main {
+  padding: 0 10px;
 }
 
 hr {
